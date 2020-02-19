@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "isaac.h": "c",
+        "cstdint": "cpp",
+        "cinttypes": "cpp",
+        "xxhash.h": "c",
+        "bitset": "cpp",
+        "math.h": "c",
+        "cstdlib": "c",
+        "assert.h": "c",
+        "libc-header-start.h": "c",
+        "unistd.h": "c"
+    }
+}
